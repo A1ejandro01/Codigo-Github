@@ -1,0 +1,52 @@
+header {
+  text-align: center;
+  background-color: lightblue;
+  border-style: Solid;
+  font-family: fantasy;
+  font-size: 2em;
+}
+nav {
+  background-color: aquamarine;
+  text-align: center;
+  border: black 5px double;
+  height: auto;
+}
+section {
+  background-color: gray;
+  width: 49%;
+  float: left;
+  font-family: monospace;
+  border-color;black;
+  text-align: center;
+  border-style: solid;
+  border-width: 2px;
+  font-size: 20px;
+  
+  
+  }
+article {
+  border:darkgray 8px ridge;
+  background-color: white;
+  font-family:cursive;
+  margin:4px; 
+}
+aside {  background-color:aqua;
+  width: 46%;
+  float: right;
+  height:150px;
+  text-align: center;
+  border-style: solid;
+  font-size: 2em;
+  font-family: monospace
+  
+  }
+  footer {
+  background-color:lightgreen;
+  width: 98%;
+  clear: both;
+  font-size:20px;
+  text-align: center;
+  border-style:double;
+  font-family: cursive
+  border-width:5px;
+  }
